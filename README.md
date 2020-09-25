@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <!--
 **Nandan-Wewhare/Nandan-Wewhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Nandan Wewhare, I'm from Jaipur, India and I'm currently working on Flutter.
+
+📫 How to reach me:<br><br>
+<a href = "https://www.linkedin.com/in/nandanwewhare/"><img src = "https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/linkedin.svg" width="30 px"></a>
+<a href = "https://www.instagram.com/nandan.vyavahare/"><img src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/instagram.svg" width="30px"></a><br>
+
+![Nandan's github stats](https://github-readme-stats.vercel.app/api?username=Nandan-Wewhare&show_icons=true&theme=dark)
