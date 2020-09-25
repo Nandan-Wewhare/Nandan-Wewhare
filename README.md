@@ -23,3 +23,5 @@ My name is Nandan Wewhare, I'm from Jaipur, India and I'm currently working on F
 <a href = "https://www.instagram.com/nandan.vyavahare/"><img src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/instagram.svg" width="30px"></a><br>
 
 ![Nandan's github stats](https://github-readme-stats.vercel.app/api?username=Nandan-Wewhare&show_icons=true&theme=dark)
+
+⚡ Fun fact: Unlike known, software developers mainly are self-taught programmers, despite having earning a bachelor's degree in software development.
