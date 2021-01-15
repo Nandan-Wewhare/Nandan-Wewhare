@@ -16,4 +16,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandan-wewhare&show_icons=true" alt="nandan-wewhare" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-wewhare&layout=compact" alt="nandan-wewhare" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-wewhare" alt="nandan-wewhare" /></p>
