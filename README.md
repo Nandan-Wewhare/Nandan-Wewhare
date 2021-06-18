@@ -13,6 +13,7 @@
 <a href="https://instagram.com/nandan.vyavahare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nandan.vyavahare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nandanwewhare98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nandanwewhare98" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nandanwewhare/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="nandanwewhare/profile" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11668651/nandan-wewhare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nandanwewhare/profile" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandan-wewhare&show_icons=true" alt="nandan-wewhare" /></p>
