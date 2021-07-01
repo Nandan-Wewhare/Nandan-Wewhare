@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandan-wewhare" alt="nandan-wewhare" /> </p>
 
-- 💬 Ask me about **Flutter, Python, Bootstrap 4**
+- 💬 Ask me about **Flutter, C#, Bootstrap 5**
 
 - 📫 How to reach me **nandanwewhare25@gmail.com**
+
+- 💻 Currently learning **ASP.NET MVC, Node, Express, MongoDB**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
