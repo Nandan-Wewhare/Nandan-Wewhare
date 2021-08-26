@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandan-wewhare" alt="nandan-wewhare" /> </p>
 
-- 💬 Ask me about **Flutter, C#, Javascript**
+- 💬 Ask me about **Flutter, Dart, C#, Javascript**
 
 - 📫 How to reach me **nandanwewhare25@gmail.com**
 
