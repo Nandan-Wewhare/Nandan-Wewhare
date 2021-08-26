@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nandanwewhare25@gmail.com**
 
-- 💻 Currently learning **ASP.NET MVC, Node, Express, MongoDB**
+- 💻 Currently learning **ASP.NET, Node, Express, MongoDB**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
