@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nandanwewhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandanwewhare" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nandan-wewhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nandan-wewhare" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11668651/nandan-wewhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nandan-wewhare" height="30" width="40" /></a>
 <a href="https://instagram.com/nandan.vyavahare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandan.vyavahare" height="30" width="40" /></a>
 <a href="https://medium.com/@nandanwewhare25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nandanwewhare25" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nandanwewhare98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandanwewhare98" height="30" width="40" /></a>
