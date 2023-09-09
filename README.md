@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandan-wewhare" alt="nandan-wewhare" /></a> </p>
 
-- 💬 Ask me about **Flutter, Dart, JavaScript**
+- 💬 Ask me about **Node, Angular, Flutter, Dart, JavaScript**
 
 - 📫 How to reach me **nandanwewhare25@gmail.com**
-
-- 🌱 I’m currently learning **Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
